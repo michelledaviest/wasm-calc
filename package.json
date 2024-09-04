@@ -1,0 +1,7 @@
+{
+    "type": "module",
+    "dependencies": {
+      "hello-wasm": "file:./pkg"
+    }
+  }
+  
